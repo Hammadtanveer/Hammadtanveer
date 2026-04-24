@@ -26,7 +26,7 @@ val hammad = Developer(
 - 📄 **First-author research** published at ICTEM 2.0 (2026) — MIT Moradabad
 - 🏆 **Top 10** — Hack with Uttar Pradesh 2025, Open Innovation Track
 - 🎓 **AKTU TFW Scholar** — merit seat, top 5% of intake batch
-- 🌱 Currently exploring: **Advanced Android & Open Source contributions**
+- 🌱 Currently exploring: **Advanced Android, AI/ML & Open Source contributions**
 
 ---
 
