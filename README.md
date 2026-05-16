@@ -62,8 +62,8 @@ val hammad = Developer(
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Hammadtanveer&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&rank_icon=github" width="49%" alt="GitHub Stats"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hammadtanveer&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" width="49%" alt="Top Languages"/>
+  <img src="https://github-readme-stats-ten-pied-19.vercel.app/api?username=Hammadtanveer&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&rank_icon=github" width="49%" alt="GitHub Stats"/>
+  <img src="https://github-readme-stats-ten-pied-19.vercel.app/api/top-langs/?username=Hammadtanveer&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" width="49%" alt="Top Languages"/>
 </p>
 
 ---
